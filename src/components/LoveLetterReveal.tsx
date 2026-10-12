@@ -38,16 +38,16 @@ const LoveLetterReveal = () => {
             </h3>
             <div className="font-body text-muted-foreground leading-relaxed space-y-3 text-base">
               <p>
-                Every day with you feels like a beautiful dream I never want to wake up from.
+                My dearest love, I still feel lucky that our paths crossed. I think about the places we have been, the conversations that ran late, and the small moments that would look ordinary to anyone else but mean everything to me.
               </p>
               <p>
-                Youre my first girlfriend, and Im so grateful for you. I see all the effort you give and all the love you show, and it means more to me than words can say.
+                You are my first girlfriend, and I am so grateful for you. I notice the care you give and the effort you put into us. You make me feel listened to, understood, and welcome exactly as I am. I hope I give you that same tenderness in return.
               </p>
               <p>
-               You are both my strength and my weakness, the reason my heart feels so full. Thank you for being you, my love.
+               I love the real parts of us: the laughter, the honest talks, the plans we make, and even the quiet pauses when we do not need to say much. Thank you for being yourself, and for letting me be part of your life.
               </p>
               <p className="text-foreground font-semibold pt-2">
-                I love you more than yesterday, less than tomorrow. 
+                I cannot promise every day will be perfect. I can promise to keep listening, keep learning how to love you well, and keep choosing us with care. I love you more than yesterday, and I will find new ways to show it tomorrow.
               </p>
               <p className="text-2xl pt-2">Forever yours, ❤️</p>
             </div>

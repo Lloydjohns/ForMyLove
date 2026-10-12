@@ -9,11 +9,11 @@ import memory5 from "@/assets/memory-5.jpg";
 import memory6 from "@/assets/memory-6.jpg";
 
 const memories = [
-  { img: memory1, caption: "Sunrise Date's 🌅", rotate: -3 },
+  { img: memory1, caption: "Sunrise Date 🌅", rotate: -3 },
   { img: memory2, caption: "River Esplanade Night Walk", rotate: 2 },
   { img: memory3, caption: "Photobooth", rotate: -2 },
   { img: memory4, caption: "With your workmates", rotate: 3 },
-  { img: memory5, caption: "Missing you Date's", rotate: -1 },
+  { img: memory5, caption: "Random Date", rotate: -1 },
   { img: memory6, caption: "You + Me = ❤️", rotate: 2 },
 ];
 
